@@ -1,0 +1,33 @@
+.image{
+    border: 5px inset brown;
+    height: 600px; ;
+    width: 1000px;
+    padding: 0px;
+    margin-left: 200px;
+    margin top: 200px;
+}
+h2{
+    font-size: 2em;
+    text-align: center;
+    padding: 10px;
+}
+p{
+    text-align: justify;
+    font-size: x-large;
+    color: green;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+*{
+    background-color: gold;
+}
+#looks{
+    font-family: Helvetica;
+}
+body{
+    border: 5px inset brown;
+}
